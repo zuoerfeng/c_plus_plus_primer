@@ -15,12 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sales_data.h">
+    <ClInclude Include="Version_test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sales_data.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sales_data.cpp">
+    <ClCompile Include="Sales_data.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

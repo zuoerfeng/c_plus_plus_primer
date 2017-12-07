@@ -1,8 +1,8 @@
-﻿生成启动时间为 2017/12/6 22:27:48。
+﻿生成启动时间为 2017/12/7 20:12:20。
      1>项目“C:\Users\lz\Desktop\c_plus_plus_primer\chapter_2\Sale_data\Sale_data\Sale_data.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\2_tmp\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt sales_data.cpp
-         sales_data.cpp
+         D:\2_tmp\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Sales_data.cpp
+         Sales_data.cpp
      1>d:\2_tmp\microsoft visual studio 12.0\vc\include\limits(1237): error C2059: 语法错误:“)”
      1>d:\2_tmp\microsoft visual studio 12.0\vc\include\limits(1237): error C2238: 意外的标记位于“;”之前
      1>已完成生成项目“C:\Users\lz\Desktop\c_plus_plus_primer\chapter_2\Sale_data\Sale_data\Sale_data.vcxproj”(Build 个目标)的操作 - 失败。

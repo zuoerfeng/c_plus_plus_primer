@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512739381 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_2\string_test\main.cpp
+	<iostream>
+	<string>
+	<cstddef>
+	<cctype>
+
+1512739381 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_3\string_test\main.cpp
+	<iostream>
+	<string>
+	<cstddef>
+	<cctype>
+

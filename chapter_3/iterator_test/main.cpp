@@ -67,15 +67,21 @@ int main()
     cout << str << endl;
 
     /*test7*/
-    //string test("12345678");
-    vector<int> test{1,2,3,4,5,6,7,8};
+    string test("12345678");
+    //vector<int> test{1,2,3,4,5,6,7,8};
     auto begn = test.begin();
     auto endd = test.end();
     auto mid = begn + (endd - begn)/2;
-    auto sought = 3;
 
-    //cout << "please input search number:" << endl;
-    //cin >> sought;
+    //string::size_type sought;   xx
+    //vector<int>::size_type sought;  xx
+    //decltype(test[1]) sought = test[1];
+    //auto sought = test[1];
+    char sought = '0';
+
+    cout << "please input search number:" << endl;
+    cin >> sought;
+
     while(mid != endd && *mid != sought)
     {
         if(sought < *mid)

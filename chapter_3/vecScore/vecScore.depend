@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512982796 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_3\vecscore\main.cpp
+	<string>
+	<iostream>
+	<vector>
+

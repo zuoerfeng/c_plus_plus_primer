@@ -1,8 +1,11 @@
 #include <iostream>
 using std::cin; using std::cout; using std::endl;
 
-#include <string.h>
+#include <string>
 using std::string;
+
+#include <vector>
+using std::vector;
 
 #include <cctype>
 using std::isupper; using std::toupper;
@@ -64,19 +67,17 @@ int main()
     cout << str << endl;
 
     /*test7*/
-    string test("12345678");
+    //string test("12345678");
+    vector<int> test{1,2,3,4,5,6,7,8};
     auto begn = test.begin();
     auto endd = test.end();
     auto mid = begn + (endd - begn)/2;
-    string::size_type sought;
+    auto sought = 3;
 
-    cout << "please input search number:" << endl;
-    cin >> sought;
-    while(mid!=endd && *mid != sought)
+    //cout << "please input search number:" << endl;
+    //cin >> sought;
+    while(mid != endd && *mid != sought)
     {
-        cout << sought;
-        cout << *mid;
-
         if(sought < *mid)
             endd = mid;
         else if(sought > *mid)

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513249615 source:c:\users\lz\desktop\c_plus_plus_primer\charper_4\sizeof_test\main.cpp
+	<iostream>
+	"sales_data.h"
+
+1512570060 c:\users\lz\desktop\c_plus_plus_primer\charper_4\sizeof_test\sales_data.h
+	<string>
+

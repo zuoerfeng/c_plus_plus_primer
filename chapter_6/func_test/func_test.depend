@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1513846506 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_6\func_test\reset.cpp
+	<iostream>
+	<vector>
+
+1513846883 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_6\func_test\wdebug.cpp
+	<cstddef>
+	<cassert>
+	<string>
+	<iostream>
+	<cstddef>
+
+1513847698 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_6\func_test\usefcnptr.cpp
+	<iostream>
+	<vector>
+
+1513854655 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_6\func_test\refparms.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstddef>
+

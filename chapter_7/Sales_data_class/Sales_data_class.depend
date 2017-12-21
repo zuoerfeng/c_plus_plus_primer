@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513863994 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_7\sales_data_class\main.cpp
+	<iostream>
+	"Sales_data.h"
+
+1513863851 c:\users\lz\desktop\c_plus_plus_primer\chapter_7\sales_data_class\sales_data.h
+	<string>
+	<iostream>
+
+1513863883 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_7\sales_data_class\sales_data.cpp
+	<iostream>
+	"Sales_data.h"
+

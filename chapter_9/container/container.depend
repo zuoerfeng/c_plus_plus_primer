@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514117169 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_9\container\main.cpp
+	<iostream>
+	<typeinfo>
+	<vector>
+	<list>
+	<array>
+	<deque>
+

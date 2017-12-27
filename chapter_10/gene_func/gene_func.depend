@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514377388 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_10\gene_func\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<deque>
+	<algorithm>
+	<numeric>
+	<functional>
+	<iterator>
+

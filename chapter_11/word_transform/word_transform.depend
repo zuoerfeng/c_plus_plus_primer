@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514536237 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_11\word_transform\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<sstream>
+

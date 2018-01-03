@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514967565 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_12\test_search\main.cpp
+	"TextQuery.h"
+
+1514968309 c:\users\lz\desktop\c_plus_plus_primer\chapter_12\test_search\textquery.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<memory>
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1514967334 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_12\test_search\textquery.cpp
+	"TextQuery.h"
+

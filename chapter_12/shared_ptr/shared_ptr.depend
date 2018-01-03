@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514965277 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_12\shared_ptr\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+	<string>
+

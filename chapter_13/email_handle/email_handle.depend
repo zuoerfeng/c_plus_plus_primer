@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1515127714 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_13\email_handle\folder.cpp
+	"Folder.h"
+
+1515127765 c:\users\lz\desktop\c_plus_plus_primer\chapter_13\email_handle\folder.h
+	<iostream>
+	<set>
+	<string>
+
+1515128102 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_13\email_handle\main.cpp
+	<iostream>
+	"Folder.h"
+	"Message.h"
+
+1515127211 c:\users\lz\desktop\c_plus_plus_primer\chapter_13\email_handle\message.h
+	<iostream>
+	<set>
+	<memory>
+	<string>
+	"Folder.h"
+
+1515127226 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_13\email_handle\message.cpp
+	"Message.h"
+

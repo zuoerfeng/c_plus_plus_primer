@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1515128848 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_13\vector_byallocator\main.cpp
+	"vector.h"
+
+1515128806 c:\users\lz\desktop\c_plus_plus_primer\chapter_13\vector_byallocator\vector.h
+	<memory>
+	<iostream>
+	<string>
+	<map>
+	<initializer_list>
+	<algorithm>
+
+1515128866 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_13\vector_byallocator\vector.cpp
+	"vector.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1515667120 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_16\template_class\blob.cpp
+	"blob.h"
+
+1515667785 c:\users\lz\desktop\c_plus_plus_primer\chapter_16\template_class\blob.h
+	<iostream>
+	<vector>
+	<string>
+	<memory>
+	<initializer_list>
+	<stdexcept>
+
+1515661314 c:\users\lz\desktop\c_plus_plus_primer\chapter_16\template_class\strblob.h
+	<iostream>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	"blob.h"
+
+1515661342 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_16\template_class\strblob.cpp
+	"strblob.h"
+
+1515668115 source:c:\users\lz\desktop\c_plus_plus_primer\chapter_16\template_class\main.cpp
+	<iostream>
+	"blob.h"
+
